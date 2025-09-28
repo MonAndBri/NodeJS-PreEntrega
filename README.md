@@ -1,2 +1,4 @@
-# NodeJS-PreEntrega
-Interfaz de línea de comandos en Node.js que permite interactuar con la API Fake Store
+# Back-End / Node JS / C25256 / Pre-Entrega
+
+* [Español](README.es.md)
+* [English](README.en.md)
